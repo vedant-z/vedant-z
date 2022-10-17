@@ -1,9 +1,15 @@
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vedant-z&theme=dark"/>
+<p align="center">  
+  <img src="https://github-profile-trophy.vercel.app/?username=vedant-z&theme=onedark&row=1&column=7" />
 </p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vedant-z&langs_count=10&show_icons=true&locale=en&layout=compact&theme=dark" alt="Gift's language" height="193px"  width="500px" />
+</p>
+
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vedant-z&theme=dark"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=vedant-z&show_icons=true&theme=dark"/>
 </p>
 
 <p align="center">
