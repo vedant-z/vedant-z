@@ -8,8 +8,8 @@
 
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vedant-z&theme=dark" width="450px"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=vedant-z&show_icons=true&theme=dark" width="450px"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vedant-z&theme=dark" width="500px"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=vedant-z&show_icons=true&theme=dark" width="500px"/>
 </p>
 
 <p align="center">
