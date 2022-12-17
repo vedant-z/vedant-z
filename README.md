@@ -1,3 +1,5 @@
+<h1 align="left" id="macropower-title">:wave: Hello there! I'm Vedant</h1>
+
 <p align="center">  
   <img src="https://github-profile-trophy.vercel.app/?username=vedant-z&theme=onedark&row=1&column=7" />
 </p>
